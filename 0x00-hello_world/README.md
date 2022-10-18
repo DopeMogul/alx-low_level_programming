@@ -1,1 +1,1 @@
-this is a script that runs a C file through the preprocessor and saves the resultinto another file
+script that generates the assembly code of a C code and saves it inanoutput file
